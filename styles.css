@@ -373,8 +373,8 @@ footer {
 }
 
 #footer-content {
-    text-align: right;
-    padding: 100px 50px 0 0;
+    text-align: center;
+    padding-top: 100px;
 }
 
 
