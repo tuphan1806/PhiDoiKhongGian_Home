@@ -16,7 +16,10 @@ body {
 
 ul {
     list-style-type: none;
-    
+}
+
+.active {
+    background-color: rgb(148, 225, 254) !important;
 }
 
 :root {
